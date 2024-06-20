@@ -50,9 +50,9 @@ module.exports = {
         sidebar: [
             "intro.md",
             {
-                title: "Introduction",
+                title: "React",
                 collapsable: true,
-                children: ["/introduction/introduction"],
+                children: ["/react/jsx"],
             },
         ],
     },
